@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MakuTP/robofriends.git/static/css/main.1013cbc0.css",
+    "main.js": "/MakuTP/robofriends.git/static/js/main.4e42caa4.js",
+    "static/js/453.ed3810f9.chunk.js": "/MakuTP/robofriends.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/SEGA.woff": "/MakuTP/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MakuTP/robofriends.git/index.html",
+    "main.1013cbc0.css.map": "/MakuTP/robofriends.git/static/css/main.1013cbc0.css.map",
+    "main.4e42caa4.js.map": "/MakuTP/robofriends.git/static/js/main.4e42caa4.js.map",
+    "453.ed3810f9.chunk.js.map": "/MakuTP/robofriends.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1013cbc0.css",
+    "static/js/main.4e42caa4.js"
+  ]
+}
